@@ -1,3 +1,7 @@
+/***
+ * Author: Joonas Asikainen <tjasikai@mac.com>
+ */
+
 #ifndef calc_hpp
 #define calc_hpp
 

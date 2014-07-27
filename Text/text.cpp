@@ -1,3 +1,7 @@
+/***
+ * Author: Joonas Asikainen <tjasikai@mac.com>
+ */
+
 #include <iostream>
 #include <fstream>
 #include <stdio.h>

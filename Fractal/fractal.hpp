@@ -1,3 +1,7 @@
+/***
+ * Author: Joonas Asikainen <tjasikai@mac.com>
+ */
+
 #ifndef fractal_hpp
 #define fractal_hpp
 

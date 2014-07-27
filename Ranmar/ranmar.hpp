@@ -1,3 +1,7 @@
+/***
+ * Author: Joonas Asikainen <tjasikai@mac.com>
+ */
+
 #ifndef ranmar_hpp
 #define ranmar_hpp
 

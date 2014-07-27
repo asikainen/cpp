@@ -1,3 +1,7 @@
+/***
+ * Author: Joonas Asikainen <tjasikai@mac.com>
+ */
+
 #include <stdio.h>
 #include <time.h>
 #include <math.h>

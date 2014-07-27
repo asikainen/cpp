@@ -1,3 +1,8 @@
+/***
+ * C++ author: Joonas Asikainen <tjasikai@mac.com>
+ * Original author: Jarkko Heinonen (c-code).
+ */
+
 #include <stdio.h>
 #include <time.h>
 #include "ranmar.hpp"
