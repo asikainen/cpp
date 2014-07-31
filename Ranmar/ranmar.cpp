@@ -1,4 +1,5 @@
 /***
+ * Date: ~2001
  * C++ author: Joonas Asikainen <tjasikai@mac.com>
  * Original author: Jarkko Heinonen (c-code).
  */
